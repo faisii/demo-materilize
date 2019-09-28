@@ -1,0 +1,10 @@
+.bg2 {
+    background: url("bg2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-image {
+    background: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
